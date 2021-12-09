@@ -1,5 +1,7 @@
 # Google Calendar to Slack
 
+Jason Snell <jsnell@sixcolors.com>
+
 This Python script takes upcoming items from a Google Calendar and posts them to Slack.
 
 The result looks kind of like this:
