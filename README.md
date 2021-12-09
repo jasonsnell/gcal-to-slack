@@ -26,5 +26,6 @@ It should look something like:
 
 You'll need to create a Slack app and install it in your Slack and point it at a particular channel in order to get a webhook URL for userin the script.
 
-For more info, read [how to do this from Slack itself](https://api.slack.com/messaging/webhooks)
+For more info, read [how to do this from Slack itself](https://api.slack.com/messaging/webhooks).
 
+That's it! This will work until Google changes the HTML of its Agenda embed, which to be honest looks like it hasn't changed in decades.
