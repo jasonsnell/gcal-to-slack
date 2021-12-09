@@ -1,5 +1,7 @@
 # Google Calendar to Slack
 
+<img src="https://www.theincomparable.com/imgs/episodes/incomparabot-ep.jpg" />
+
 This Python script takes upcoming items from a Google Calendar and posts them to Slack.
 
 You'll need a Google Calendar HTML embed URL.
